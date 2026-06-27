@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "biomatix-tools",
+  "description": "Biomatix Claude Code plugins — skills, commands, and agents for conservation genetics, scientific report writing, and reference/citation verification workflows.",
+  "owner": {
+    "name": "Biomatix",
+    "email": "arthur.georges@biomatix.com.au"
+  },
+  "plugins": [
+    {
+      "name": "clear-writing",
+      "description": "Writing collaborator that applies rigorous prose principles to draft, review, revise, or improve any text. Use whenever the user wants prose written, edited, tightened, or critiqued. Based on Strunk's Elements of Style and Gastel & Day's How to Write and Publish a Scientific Paper.",
+      "source": "./plugins/clear-writing",
+      "category": "writing",
+      "author": {
+        "name": "Biomatix",
+        "email": "arthur.georges@biomatix.com.au"
+      }
+    }
+  ]
+}

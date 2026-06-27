@@ -1,0 +1,4 @@
+# Plugins live here, one directory per plugin.
+# Each plugin directory must contain a `.claude-plugin/plugin.json` manifest,
+# and may contain `skills/`, `commands/`, `agents/`, hooks, and an `.mcp.json`.
+# See ../template/ for a ready-to-copy starting point, and ../README.md for the full guide.

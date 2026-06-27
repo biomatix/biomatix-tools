@@ -1,0 +1,2 @@
+# Place on-demand reference docs here (Markdown). Reference them from SKILL.md as:
+#   ${CLAUDE_PLUGIN_ROOT}/skills/example-skill/references/<name>.md

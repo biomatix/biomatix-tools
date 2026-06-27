@@ -1,0 +1,2 @@
+# Place skill scripts here. Reference them from SKILL.md as:
+#   ${CLAUDE_PLUGIN_ROOT}/skills/example-skill/scripts/<name>

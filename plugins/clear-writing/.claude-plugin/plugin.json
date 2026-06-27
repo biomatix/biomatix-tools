@@ -1,0 +1,9 @@
+{
+  "name": "clear-writing",
+  "description": "Writing collaborator that applies rigorous prose principles (Strunk's Elements of Style and Gastel & Day's How to Write and Publish a Scientific Paper) to draft, review, revise, or improve any text — scientific papers, abstracts, methods, reports, eBook chapters, documentation, and correspondence.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Biomatix",
+    "email": "arthur.georges@biomatix.com.au"
+  }
+}
